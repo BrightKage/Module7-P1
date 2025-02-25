@@ -2,7 +2,7 @@
 Body{
   background-color: #FFFFFF;
   font-family: 'Playfair Display';
-  color: #ffd861;
+  color: #f44336;
 }
 nav ul {
   list-style-type: none;
@@ -30,7 +30,7 @@ section ul li{
 section ul{
   list-style-type: none;
   color: #f44336;
-  background-color: #fca956;
+  background-color: #f6dcca;
   padding: 20px
 }
 section ul li:hover{
@@ -41,14 +41,14 @@ section ul li:hover{
 section{
   text-align: center;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  background-color: #ce8946;
+  background-color: #f3d1b9;
   border: 3px solid #000000;
   font-weight:999;
   font-size:20px;
 
 }
 footer {
-    background-color: #fca956;
+    background-color: #f3d1b9;
     color:#f44336;
     text-align: center;
     padding: 10px;
