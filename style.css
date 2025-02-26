@@ -69,7 +69,7 @@ img {
   font-size: 20px;  
   border: none;
   outline: none;
-  color:#000000;
+  color:#;
   padding: 4px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -83,7 +83,9 @@ img {
   border-radius:10px;
 
 }
-
+.dropdown-content p{
+  color:red;
+}
 .dropdown-content {
   display: none;
   position: absolute;
@@ -121,4 +123,12 @@ a:link {
 }
 a{
   color:#000000;
+}
+#cart{
+  color:white;
+  Background-color:black;
+}
+#cart:hover{
+  color:white;
+  Background-color:blue;
 }
