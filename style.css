@@ -127,6 +127,7 @@ a{
 #cart{
   color:white;
   Background-color:black;
+  text-decoration:none;
 }
 #cart:hover{
   color:white;
